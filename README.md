@@ -1,6 +1,6 @@
 预览地址： [http://demo.lanbuding.com/s/vue3-tiger-admin/](http://demo.lanbuding.com/s/vue3-tiger-admin/)
 
-仓库地址： [https://gitee.com/jsfront/vue3-tiger-admin](https://gitee.com/jsfront/vue3-tiger-admin)
+仓库地址： [https://github.com/jikeytang/vue3-tiger-admin](https://github.com/jikeytang/vue3-tiger-admin)
 技术栈为：Vite, Vue3, Arco, Pinia, VueUse, Axios, UnoCSS, Scss
 
 ### 1. Vue3-Tiger-Admin介绍
